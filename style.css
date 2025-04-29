@@ -1,7 +1,15 @@
 .icones{
-color: rgb(33, 124, 228);
+text-align: right;
+display: flex;
+
+gap: 110px;
 
 }
 body{
 background-color: aliceblue;
+color:rgb(33,124,228); 
+
+}
+#alinharmenu{
+
 }
